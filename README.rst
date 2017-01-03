@@ -43,6 +43,8 @@ Configuration
 Add ``cmsplugin_socialbuttons`` to the list of ``INSTALLED_APPS`` in your
 ``settings.py`` file.
 
+Run migrations ``pythonn manage.py migrate cmsplugin_socialbuttons``
+
 
 Please make sure, that jQuery is provided!
 
